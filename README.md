@@ -3,6 +3,6 @@ HighSafe's public code repository required for the Let's Solve It BorealisAI pro
 
 This repository consists of:
 
-  - [Results]: Proof of concept labelled images of highlighted cars and road.
-  - [Cameras]: A JSON and .txt file with links to over a thousand cameras across Ontario.
-  - [Papers]: Our final presentation, one page report, and blog post
+  - [Cameras](https://github.com/mohammadzfr/BorealisAI/tree/main/Cameras): A JSON and .txt file with links to over a thousand cameras across Ontario.
+  - [Papers](https://github.com/mohammadzfr/BorealisAI/tree/main/Papers): Our final presentation, one page report, and blog post.
+  - [Results](https://github.com/mohammadzfr/BorealisAI/tree/main/Results): Proof of concept labelled images of highlighted cars and roads.
